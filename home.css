@@ -35,11 +35,17 @@ footer {
     background-color: #4a4a4a;
     color: white;
     text-align: center;
+    /* height: 100vh;
+    display: flex;
+    flex-direction: column; */
+    vertical-align: bottom;
     
+
 }
 #dsa {
   color: #cc7979;
   display: block;
+  height:25vh ;
   
 }
 
@@ -47,6 +53,7 @@ footer {
 #oops{
     color: #cc7979;
     display: block;
+    height:25vh ;
 }
 
 body{
